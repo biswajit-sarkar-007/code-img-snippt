@@ -77,6 +77,9 @@ The project follows a well-organized structure:
 # 🖥️ Demo
 
 Web Application Preview:
+
+![code-img](https://github.com/user-attachments/assets/c58f42a1-f074-4255-9fc5-c5bd3b8d49da)
+
  
 
 #  Getting Started
